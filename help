@@ -1,0 +1,8 @@
+--Database: crudapp
+--tables--
+	--crudapp
+		-fullName
+		-empCode
+		-salary
+		-city
+
